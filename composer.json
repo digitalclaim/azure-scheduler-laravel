@@ -1,6 +1,6 @@
 {
     "name": "digitalclaim/azure-scheduler-laravel",
-    "description": "This is my package azure-scheduler-laravel",
+    "description": "Laravel scheduler triggered by Azure Scheduled Functions.",
     "keywords": [
         "digitalclaim",
         "laravel",
